@@ -22,5 +22,6 @@
 - 📧 zohaib.b@gmail.com
 - 🏢 https://www.linkedin.com/in/mirzazohaibbaig/
 
-[![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzazohaib)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzazohaib)]
+![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzazohaib)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzazohaib)
