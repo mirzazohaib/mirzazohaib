@@ -8,7 +8,7 @@
 
 ====================================================================================
 
- ## Specialties: 
+ #### Specialties: 
     | JavaScript | TypeScript | Java | Express | React | Node.js | GitOps | Next.js | 
     | CSS | Web accessibility A11y | MongoDB | PostgreSQL | Microsoft Azure | AWS | 
     | Commercial Operations Management | Agile & Lean Culture Development | 
@@ -17,7 +17,7 @@
 
 ====================================================================================
 
-## Contact Me
+#### Contact Me
 - 📧 zohaib.b@gmail.com
 - 🏢 https://www.linkedin.com/in/mirzazohaibbaig/
 
