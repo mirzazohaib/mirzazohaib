@@ -1,6 +1,6 @@
 ### Hi 👋, The Name's Mirza Zohaib Baig 🧔 | Guy-who-loves-Coffee.tsx ☕ | <ButtLovesToCodeMore /> 👨‍💻
 
--🌱 I’m addicted to learning and growing every day
+- 🌱 I’m addicted to learning and growing every day
 - 🚀 An aspiring full-stack developer
 - 💪 Confident in technical skills and ready to tackle challenges together with an agile team
 - 🧠 Having a curious mind for learning and trying out new things, as well as, finding creative solutions
