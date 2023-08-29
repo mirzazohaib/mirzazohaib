@@ -10,11 +10,11 @@
 ====================================================================================
 
  **Specialties:**
-    | JavaScript | TypeScript | Java | Express | React | Node.js | GitOps | Next.js | 
-    | CSS | Web accessibility A11y | MongoDB | PostgreSQL | Microsoft Azure | AWS | 
-    | Commercial Operations Management | Agile & Lean Culture Development | 
-    | CRM – Oracle Siebel | Interpersonal Skills | Business Intelligence - IBM COGNOS |
-    | Training & Mentoring | Business Communication |  
+  - | JavaScript | TypeScript | Java | Express | React | Node.js | GitOps | Next.js | 
+  - | CSS | Web accessibility A11y | MongoDB | PostgreSQL | Microsoft Azure | AWS | 
+  - | Commercial Operations Management | Agile & Lean Culture Development | 
+  - | CRM – Oracle Siebel | Interpersonal Skills | Business Intelligence - IBM COGNOS |
+  - | Training & Mentoring | Business Communication |  
 
 ====================================================================================
 
