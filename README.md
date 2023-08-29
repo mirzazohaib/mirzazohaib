@@ -1,7 +1,4 @@
-###  Hi there 👋
-###   The Name's Mirza Zohaib Baig 🧔
-###   Guy-who-loves-Coffee.tsx ☕
-###   <ButtLovesToCodeMore /> 👨‍💻
+###  Hi there 👋 The Name's Mirza Zohaib Baig 🧔 Guy-who-loves-Coffee.tsx ☕ <ButtLovesToCodeMore /> 👨‍💻
 
  
 - 🌱 I’m addicted to learning and growing every day
