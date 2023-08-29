@@ -18,5 +18,5 @@ I can be reached through below mentioned channels:
 - Email: zohaib.b@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mirzazohaibbaig/
 
-![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzazohaib)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzazohaib)
+!Zohaib's GitHub stats(https://github-readme-stats.vercel.app/api?username=mirzazohaib)
+!Top Langs(https://github-readme-stats.vercel.app/api/top-langs/?username=mirzazohaib)
