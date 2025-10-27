@@ -4,17 +4,18 @@
 - 🌱 I’m addicted to learning and growing every day
 - 🚀 An aspiring full-stack developer
 - 💪 Confident in technical skills and ready to tackle challenges together with an agile team
-- 🧠 Having a curious mind for learning and trying out new things, as well as, finding creative solutions
+- 🧠 Having a curious mind for learning and trying out new things, as well as finding creative solutions
 - ✨ Great passion for work and always tries to do things better
 
 ====================================================================================
 
- **Specialties:**
-  - | JavaScript | TypeScript | Java | Express | React | Node.js | GitOps | Next.js | 
-  - | CSS | Web accessibility A11y | MongoDB | PostgreSQL | Microsoft Azure | AWS |
-  - | CRM – Oracle Siebel |  Business Intelligence - IBM COGNOS |
-  - | Commercial Operations Management | Agile & Lean Culture Development | 
-  - | Training & Mentoring | Business Communication |  Interpersonal Skills |
+ **Skills:**
+- | C# | Java (Spring Boot) | JavaScript (Bootstrap) | TypeScript |  CSS | Web Accessibility (A11y) |
+- | MongoDB | PostgreSQL | SSIS | SSRS |
+- | Microsoft Azure | Azure DevOps | Azure API Management | GitHub | AWS | RESTful APIs | XML | JIRA |
+- | Microsoft Power Platform | Microsoft Dynamics 365 CRM | Microsoft Copilot 365 CRM | Power BI |
+- | Agile & Lean Culture Development | Commercial Operations Management |
+- | Training & Mentoring | Business Communication | Interpersonal Skills | 
 
 ====================================================================================
 
